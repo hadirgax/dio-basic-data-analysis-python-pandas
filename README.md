@@ -7,8 +7,8 @@ This repository contents a path to learn basic concepts of the Python language a
 
 ## List of Content
 
-1. [Basic Python](#)
-2. [Python Data Estructures](#)
+1. [Basic Python](./basic-python.ipynb)
+2. [Python Data Estructures](./basic-python-data-structures.ipynb)
 3. [Pandas Introduction](#)
 4. [Working with MSExcel Files](#)
 5. [Working with Dates and Time](#)
