@@ -12,5 +12,5 @@ This repository contents a path to learn basic concepts of the Python language a
 3. [Data Analysis with Pandas](./data-analysis-pandas.ipynb)
 4. [Working with MSExcel Spreadsheets](./pandas-with-msexcel-spreadsheets.ipynb)
 5. [Working with Dates and Time](./pandas-with-dates-and-time.ipynb)
-6. [Data Visualization](#)
+6. [Data Visualization](./data-visualization.ipynb)
 7. [Exploratory Analysis](#)
